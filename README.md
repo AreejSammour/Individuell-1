@@ -1,7 +1,5 @@
-# Individuell-1
-Quiz-app
+<h2>Quiz-app</h2>
+<hr>
 
-
-download codes
-1-npm i
-2-npm start
+<h3>A Single Page Quiz application using React
+</h3>
